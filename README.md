@@ -1,4 +1,5 @@
 **Galaxy Classifier**
+
 **Description**
 The Galaxy Classifier is a deep learning model designed to classify galaxies based on their morphological features. This model is trained on the GalaxyMNIST dataset, which contains galaxy images categorized into distinct morphological classes. The goal of this project is to develop an intuitive classifier that can predict the morphological class of a galaxy given an image.
 
